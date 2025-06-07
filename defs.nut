@@ -1,5 +1,5 @@
-#ifndef DEFS_TXT
-#define DEFS_TXT
+#ifndef DEFS_NUT
+#define DEFS_NUT
 
 #define OZ    28.35
 #define 1_5_OZ 42.52

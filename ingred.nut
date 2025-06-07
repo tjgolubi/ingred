@@ -53,16 +53,16 @@
 *   17     0    55 this                        cooked large egg yolk
 
    =               "cooked egg"                egg
-   =               "cooked large egg"          boiled egg
+*  =               "cooked large egg"          boiled egg
    =               "cooked egg white"          egg white
    =               "cooked egg yolk"           egg yolk
-   =               "cooked small egg"          small egg
-   =               "cooked medium egg"         medium egg
-   =               "cooked large egg"          large egg
-   =               "cooked xlarge egg"         xlarge egg
-   =               "cooked jumbo egg"          jumbo egg
-   =               "cooked large egg white"    large egg white
-   =               "cooked large egg yolk"     large egg yolk
+*  =               "cooked small egg"          small egg
+*  =               "cooked medium egg"         medium egg
+*  =               "cooked large egg"          large egg
+*  =               "cooked xlarge egg"         xlarge egg
+*  =               "cooked jumbo egg"          jumbo egg
+*  =               "cooked large egg white"    large egg white
+*  =               "cooked large egg yolk"     large egg yolk
    =               "cooked chopped egg"        chopped egg
 :
 # Fish
@@ -2182,6 +2182,8 @@
    100     0   122  13.09   6.70   9.57   1.10 raw sprouted soybeans // usda 169284
     35  HCUP     0 this                        replace
 *    1     0     0 this                        sprout, $this
+
+#include "branded/Bush's.nut"
 
 [vegetable]
    100     0    19   2.14   0.65   2.46   1.60 canned asparagus // usda 169207
