@@ -1354,6 +1354,9 @@
 *   60     0     0 this                        serving $this // 10 rings
 *    6     0     0 this                        ring $this
 *  143     0     0 this                        replace
+*  150     0     0 this                        large $this
+*  120     0     0 this                        medium $this
+*   70     0     0 this                        small $this
 
    100     0    33   0.89   0.13   7.68   1.20 white onion // usda 1104962
    160   CUP     0 this                        chopped $this
